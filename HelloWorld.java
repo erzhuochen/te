@@ -4,4 +4,7 @@ public class HelloWorld{
         System.out.println("world");
         System.out.println("233");
     }
+    void print(){
+        System.out.println(111);
+    }
 }
