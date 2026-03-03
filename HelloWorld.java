@@ -5,6 +5,6 @@ public class HelloWorld{
         System.out.println("233");
     }
     void print(){
-        System.out.println(121);
+        System.out.println(131);
     }
 }
